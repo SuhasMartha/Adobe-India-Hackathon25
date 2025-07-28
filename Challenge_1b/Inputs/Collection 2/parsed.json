@@ -1,0 +1,1361 @@
+[
+    {
+        "document": "Learn Acrobat - Create and Convert_1.pdf",
+        "sections": [
+            {
+                "heading": "Note:",
+                "level": "H2",
+                "page": 8,
+                "content": ""
+            },
+            {
+                "heading": "Note:",
+                "level": "H2",
+                "page": 9,
+                "content": ""
+            },
+            {
+                "heading": "Note:",
+                "level": "H2",
+                "page": 9,
+                "content": ""
+            },
+            {
+                "heading": "Note:",
+                "level": "H2",
+                "page": 10,
+                "content": ""
+            },
+            {
+                "heading": "Note:",
+                "level": "H2",
+                "page": 10,
+                "content": ""
+            },
+            {
+                "heading": "Note:",
+                "level": "H2",
+                "page": 12,
+                "content": ""
+            },
+            {
+                "heading": "Note:",
+                "level": "H2",
+                "page": 14,
+                "content": ""
+            },
+            {
+                "heading": "Note:",
+                "level": "H2",
+                "page": 18,
+                "content": ""
+            },
+            {
+                "heading": "Conversion Settings",
+                "level": "H2",
+                "page": 20,
+                "content": ""
+            },
+            {
+                "heading": "Convert Document Information",
+                "level": "H2",
+                "page": 20,
+                "content": ""
+            },
+            {
+                "heading": "Note:",
+                "level": "H2",
+                "page": 20,
+                "content": ""
+            },
+            {
+                "heading": "Require A Password To Open The Document",
+                "level": "H2",
+                "page": 21,
+                "content": ""
+            },
+            {
+                "heading": "Restrict Editing And Printing Of The Document",
+                "level": "H2",
+                "page": 21,
+                "content": ""
+            },
+            {
+                "heading": "Change Permissions Password",
+                "level": "H2",
+                "page": 21,
+                "content": ""
+            },
+            {
+                "heading": "Printing Allowed",
+                "level": "H2",
+                "page": 21,
+                "content": ""
+            },
+            {
+                "heading": "Changes Allowed",
+                "level": "H2",
+                "page": 21,
+                "content": ""
+            },
+            {
+                "heading": "Enable Copying Of Text, Images, And Other Contents",
+                "level": "H2",
+                "page": 21,
+                "content": ""
+            },
+            {
+                "heading": "Enable Text Access For Screen Reader Devices For The Visually Impaired",
+                "level": "H2",
+                "page": 21,
+                "content": ""
+            },
+            {
+                "heading": "Enable Plaintext Metadata",
+                "level": "H2",
+                "page": 21,
+                "content": ""
+            },
+            {
+                "heading": "Note:",
+                "level": "H2",
+                "page": 23,
+                "content": ""
+            },
+            {
+                "heading": "• \n(Outlook) Choose Acrobat > Change Conversion Settings.",
+                "level": "H2",
+                "page": 23,
+                "content": ""
+            },
+            {
+                "heading": "Note:",
+                "level": "H2",
+                "page": 25,
+                "content": ""
+            },
+            {
+                "heading": "• \n(Outlook) Choose Acrobat > Setup Automatic Archival.",
+                "level": "H2",
+                "page": 26,
+                "content": ""
+            },
+            {
+                "heading": "• \n(Lotus Notes) Choose Actions > Setup Automatic Archival.",
+                "level": "H2",
+                "page": 26,
+                "content": ""
+            },
+            {
+                "heading": "Note:",
+                "level": "H2",
+                "page": 27,
+                "content": ""
+            },
+            {
+                "heading": "• \nChoose Acrobat > Mail Merge.",
+                "level": "H2",
+                "page": 27,
+                "content": ""
+            },
+            {
+                "heading": "To",
+                "level": "H2",
+                "page": 28,
+                "content": ""
+            },
+            {
+                "heading": "Subject Line",
+                "level": "H2",
+                "page": 28,
+                "content": ""
+            },
+            {
+                "heading": "Message",
+                "level": "H2",
+                "page": 28,
+                "content": ""
+            },
+            {
+                "heading": "• \n(Visio 2010) Choose Acrobat > Preferences",
+                "level": "H2",
+                "page": 29,
+                "content": ""
+            },
+            {
+                "heading": "5. Click Continue.",
+                "level": "H2",
+                "page": 29,
+                "content": ""
+            }
+        ]
+    },
+    {
+        "document": "Learn Acrobat - Create and Convert_2.pdf",
+        "sections": [
+            {
+                "heading": "Note:",
+                "level": "H2",
+                "page": 3,
+                "content": ""
+            },
+            {
+                "heading": "4. Click Convert.",
+                "level": "H2",
+                "page": 5,
+                "content": ""
+            },
+            {
+                "heading": "Attach Source File",
+                "level": "H2",
+                "page": 6,
+                "content": ""
+            },
+            {
+                "heading": "Create Bookmarks",
+                "level": "H2",
+                "page": 6,
+                "content": ""
+            },
+            {
+                "heading": "Add Links",
+                "level": "H2",
+                "page": 6,
+                "content": ""
+            },
+            {
+                "heading": "Note:",
+                "level": "H2",
+                "page": 6,
+                "content": ""
+            },
+            {
+                "heading": "Convert Comments",
+                "level": "H2",
+                "page": 6,
+                "content": ""
+            },
+            {
+                "heading": "Actual Size",
+                "level": "H2",
+                "page": 6,
+                "content": ""
+            },
+            {
+                "heading": "Fit Worksheet To A Single Page",
+                "level": "H2",
+                "page": 6,
+                "content": ""
+            },
+            {
+                "heading": "Fit To Paper Width",
+                "level": "H2",
+                "page": 7,
+                "content": ""
+            },
+            {
+                "heading": "Prompt For Selecting Excel Sheets",
+                "level": "H2",
+                "page": 7,
+                "content": ""
+            },
+            {
+                "heading": "Preserve Slide Transitions",
+                "level": "H2",
+                "page": 7,
+                "content": ""
+            },
+            {
+                "heading": "Convert Speaker Notes",
+                "level": "H2",
+                "page": 7,
+                "content": ""
+            },
+            {
+                "heading": "Compatibility",
+                "level": "H2",
+                "page": 7,
+                "content": ""
+            },
+            {
+                "heading": "Attachments",
+                "level": "H2",
+                "page": 7,
+                "content": ""
+            },
+            {
+                "heading": "Do Not Include Folder Name Information",
+                "level": "H2",
+                "page": 8,
+                "content": ""
+            },
+            {
+                "heading": "Embed Index For Faster Search",
+                "level": "H2",
+                "page": 8,
+                "content": ""
+            },
+            {
+                "heading": "Block Download Of External Content",
+                "level": "H2",
+                "page": 8,
+                "content": ""
+            },
+            {
+                "heading": "Compliance Standard",
+                "level": "H2",
+                "page": 8,
+                "content": ""
+            },
+            {
+                "heading": "Open Layers Pane When Viewed In Acrobat",
+                "level": "H2",
+                "page": 8,
+                "content": ""
+            },
+            {
+                "heading": "Embed Scale Information",
+                "level": "H2",
+                "page": 8,
+                "content": ""
+            },
+            {
+                "heading": "Do Not Convert Model Space To 3D",
+                "level": "H2",
+                "page": 8,
+                "content": ""
+            },
+            {
+                "heading": "Choose Layout Option",
+                "level": "H2",
+                "page": 8,
+                "content": ""
+            },
+            {
+                "heading": "Exclude Model Space",
+                "level": "H2",
+                "page": 9,
+                "content": ""
+            },
+            {
+                "heading": "Choose Layer Option",
+                "level": "H2",
+                "page": 9,
+                "content": ""
+            },
+            {
+                "heading": "Exclude Visio Objects With No Custom Properties",
+                "level": "H2",
+                "page": 9,
+                "content": ""
+            },
+            {
+                "heading": "Open Layers Pane When Viewed In Acrobat",
+                "level": "H2",
+                "page": 9,
+                "content": ""
+            },
+            {
+                "heading": "Reviewer",
+                "level": "H2",
+                "page": 9,
+                "content": ""
+            },
+            {
+                "heading": "Include",
+                "level": "H2",
+                "page": 10,
+                "content": ""
+            },
+            {
+                "heading": "Notes Open",
+                "level": "H2",
+                "page": 10,
+                "content": ""
+            },
+            {
+                "heading": "Color",
+                "level": "H2",
+                "page": 10,
+                "content": ""
+            },
+            {
+                "heading": "# Of Comments",
+                "level": "H2",
+                "page": 10,
+                "content": ""
+            },
+            {
+                "heading": "Convert Footnote And Endnote Links",
+                "level": "H2",
+                "page": 10,
+                "content": ""
+            },
+            {
+                "heading": "Enable Advanced Tagging",
+                "level": "H2",
+                "page": 10,
+                "content": ""
+            },
+            {
+                "heading": "Convert Word Headings To Bookmarks",
+                "level": "H2",
+                "page": 10,
+                "content": ""
+            },
+            {
+                "heading": "Convert Word Styles To Bookmarks",
+                "level": "H2",
+                "page": 10,
+                "content": ""
+            },
+            {
+                "heading": "Convert Word Bookmarks",
+                "level": "H2",
+                "page": 10,
+                "content": ""
+            },
+            {
+                "heading": "Element",
+                "level": "H2",
+                "page": 11,
+                "content": ""
+            },
+            {
+                "heading": "Type",
+                "level": "H2",
+                "page": 11,
+                "content": ""
+            },
+            {
+                "heading": "Bookmark",
+                "level": "H2",
+                "page": 11,
+                "content": ""
+            },
+            {
+                "heading": "Level",
+                "level": "H2",
+                "page": 11,
+                "content": ""
+            },
+            {
+                "heading": "Note:",
+                "level": "H2",
+                "page": 11,
+                "content": ""
+            },
+            {
+                "heading": "Note:",
+                "level": "H2",
+                "page": 12,
+                "content": ""
+            },
+            {
+                "heading": "5. Click Continue.",
+                "level": "H2",
+                "page": 13,
+                "content": ""
+            },
+            {
+                "heading": "Note:",
+                "level": "H2",
+                "page": 14,
+                "content": ""
+            },
+            {
+                "heading": "Note:",
+                "level": "H2",
+                "page": 15,
+                "content": ""
+            },
+            {
+                "heading": "Add Document Information",
+                "level": "H2",
+                "page": 16,
+                "content": ""
+            },
+            {
+                "heading": "Rely On System Fonts Only; Do Not Use Document Fonts",
+                "level": "H2",
+                "page": 16,
+                "content": ""
+            },
+            {
+                "heading": "Delete Log Files For Successful Jobs",
+                "level": "H2",
+                "page": 16,
+                "content": ""
+            },
+            {
+                "heading": "Note:",
+                "level": "H2",
+                "page": 17,
+                "content": ""
+            },
+            {
+                "heading": "2. Choose Properties.",
+                "level": "H2",
+                "page": 17,
+                "content": ""
+            }
+        ]
+    },
+    {
+        "document": "Learn Acrobat - Edit_1.pdf",
+        "sections": [
+            {
+                "heading": "Content.",
+                "level": "H2",
+                "page": 6,
+                "content": ""
+            },
+            {
+                "heading": "Content.",
+                "level": "H2",
+                "page": 7,
+                "content": ""
+            },
+            {
+                "heading": "Content.",
+                "level": "H2",
+                "page": 9,
+                "content": ""
+            },
+            {
+                "heading": "Content.",
+                "level": "H2",
+                "page": 11,
+                "content": ""
+            },
+            {
+                "heading": "Content.",
+                "level": "H2",
+                "page": 11,
+                "content": ""
+            },
+            {
+                "heading": "Note:",
+                "level": "H2",
+                "page": 13,
+                "content": ""
+            }
+        ]
+    },
+    {
+        "document": "Learn Acrobat - Edit_2.pdf",
+        "sections": [
+            {
+                "heading": "5. Select Split.",
+                "level": "H2",
+                "page": 6,
+                "content": ""
+            }
+        ]
+    },
+    {
+        "document": "Learn Acrobat - Export_1.pdf",
+        "sections": [
+            {
+                "heading": "Export",
+                "level": "H2",
+                "page": 2,
+                "content": ""
+            },
+            {
+                "heading": "Note:",
+                "level": "H2",
+                "page": 2,
+                "content": ""
+            },
+            {
+                "heading": "Note:",
+                "level": "H2",
+                "page": 3,
+                "content": ""
+            },
+            {
+                "heading": "Note:",
+                "level": "H2",
+                "page": 4,
+                "content": ""
+            },
+            {
+                "heading": "6. Select Save.",
+                "level": "H2",
+                "page": 7,
+                "content": ""
+            },
+            {
+                "heading": "Note:",
+                "level": "H2",
+                "page": 8,
+                "content": ""
+            },
+            {
+                "heading": "Note:",
+                "level": "H2",
+                "page": 9,
+                "content": ""
+            },
+            {
+                "heading": "Conversion",
+                "level": "H2",
+                "page": 9,
+                "content": ""
+            },
+            {
+                "heading": "Colorspace/Resolution",
+                "level": "H2",
+                "page": 9,
+                "content": ""
+            },
+            {
+                "heading": "Note:",
+                "level": "H2",
+                "page": 9,
+                "content": ""
+            },
+            {
+                "heading": "Interlace",
+                "level": "H2",
+                "page": 10,
+                "content": ""
+            },
+            {
+                "heading": "Conversion",
+                "level": "H2",
+                "page": 10,
+                "content": ""
+            },
+            {
+                "heading": "Colorspace/Resolution",
+                "level": "H2",
+                "page": 10,
+                "content": ""
+            },
+            {
+                "heading": "Note:",
+                "level": "H2",
+                "page": 10,
+                "content": ""
+            },
+            {
+                "heading": "Monochrome",
+                "level": "H2",
+                "page": 11,
+                "content": ""
+            },
+            {
+                "heading": "Note:",
+                "level": "H2",
+                "page": 11,
+                "content": ""
+            },
+            {
+                "heading": "Conversion",
+                "level": "H2",
+                "page": 11,
+                "content": ""
+            },
+            {
+                "heading": "Colorspace/Resolution",
+                "level": "H2",
+                "page": 11,
+                "content": ""
+            },
+            {
+                "heading": "Note:",
+                "level": "H2",
+                "page": 11,
+                "content": ""
+            },
+            {
+                "heading": "Layout Settings",
+                "level": "H2",
+                "page": 12,
+                "content": ""
+            },
+            {
+                "heading": "Comments Settings",
+                "level": "H2",
+                "page": 12,
+                "content": ""
+            },
+            {
+                "heading": "Image Settings",
+                "level": "H2",
+                "page": 12,
+                "content": ""
+            },
+            {
+                "heading": "Text Recognition Settings",
+                "level": "H2",
+                "page": 12,
+                "content": ""
+            },
+            {
+                "heading": "Layout Settings",
+                "level": "H2",
+                "page": 13,
+                "content": ""
+            },
+            {
+                "heading": "Comments Settings",
+                "level": "H2",
+                "page": 13,
+                "content": ""
+            },
+            {
+                "heading": "Image Settings",
+                "level": "H2",
+                "page": 13,
+                "content": ""
+            },
+            {
+                "heading": "Text Recognition Settings",
+                "level": "H2",
+                "page": 14,
+                "content": ""
+            },
+            {
+                "heading": "FILE AND NAVIGATION PANE SETTINGS",
+                "level": "H1",
+                "page": 15,
+                "content": ""
+            },
+            {
+                "heading": "Include Images",
+                "level": "H2",
+                "page": 16,
+                "content": ""
+            },
+            {
+                "heading": "Recognize Text If Needed",
+                "level": "H2",
+                "page": 16,
+                "content": ""
+            },
+            {
+                "heading": "Set Language",
+                "level": "H2",
+                "page": 16,
+                "content": ""
+            },
+            {
+                "heading": "Excel Workbook Settings",
+                "level": "H2",
+                "page": 18,
+                "content": ""
+            },
+            {
+                "heading": "Numeric Settings",
+                "level": "H2",
+                "page": 18,
+                "content": ""
+            },
+            {
+                "heading": "Recognize Text If Needed",
+                "level": "H2",
+                "page": 18,
+                "content": ""
+            },
+            {
+                "heading": "Set Language",
+                "level": "H2",
+                "page": 19,
+                "content": ""
+            },
+            {
+                "heading": "Note:",
+                "level": "H2",
+                "page": 20,
+                "content": ""
+            },
+            {
+                "heading": "Printer Description File",
+                "level": "H2",
+                "page": 21,
+                "content": ""
+            },
+            {
+                "heading": "Font Inclusion",
+                "level": "H2",
+                "page": 21,
+                "content": ""
+            },
+            {
+                "heading": "Include Comments",
+                "level": "H2",
+                "page": 21,
+                "content": ""
+            },
+            {
+                "heading": "Include Preview",
+                "level": "H2",
+                "page": 21,
+                "content": ""
+            },
+            {
+                "heading": "Page Range",
+                "level": "H2",
+                "page": 21,
+                "content": ""
+            },
+            {
+                "heading": "Encoding",
+                "level": "H2",
+                "page": 22,
+                "content": ""
+            },
+            {
+                "heading": "Generate Bookmarks",
+                "level": "H2",
+                "page": 23,
+                "content": ""
+            },
+            {
+                "heading": "Generate Tags For Untagged Files",
+                "level": "H2",
+                "page": 23,
+                "content": ""
+            },
+            {
+                "heading": "Note:",
+                "level": "H2",
+                "page": 23,
+                "content": ""
+            },
+            {
+                "heading": "Generate Images",
+                "level": "H2",
+                "page": 23,
+                "content": ""
+            },
+            {
+                "heading": "Use Sub-Folder",
+                "level": "H2",
+                "page": 23,
+                "content": ""
+            },
+            {
+                "heading": "Use Prefix",
+                "level": "H2",
+                "page": 23,
+                "content": ""
+            },
+            {
+                "heading": "Output Format",
+                "level": "H2",
+                "page": 23,
+                "content": ""
+            },
+            {
+                "heading": "Downsample To",
+                "level": "H2",
+                "page": 23,
+                "content": ""
+            },
+            {
+                "heading": "6. Select Save.",
+                "level": "H2",
+                "page": 24,
+                "content": ""
+            },
+            {
+                "heading": "6. Select Save.",
+                "level": "H2",
+                "page": 25,
+                "content": ""
+            },
+            {
+                "heading": "6. Select Save.",
+                "level": "H2",
+                "page": 25,
+                "content": ""
+            },
+            {
+                "heading": "Overview",
+                "level": "H2",
+                "page": 26,
+                "content": ""
+            },
+            {
+                "heading": "Note:",
+                "level": "H2",
+                "page": 26,
+                "content": ""
+            },
+            {
+                "heading": "4. Select Ok.",
+                "level": "H2",
+                "page": 26,
+                "content": ""
+            },
+            {
+                "heading": "Note:",
+                "level": "H2",
+                "page": 26,
+                "content": ""
+            },
+            {
+                "heading": "7. Select Save.",
+                "level": "H2",
+                "page": 27,
+                "content": ""
+            },
+            {
+                "heading": "Note:",
+                "level": "H2",
+                "page": 28,
+                "content": ""
+            },
+            {
+                "heading": "3. (Windows) Press Ctrl + V.",
+                "level": "H2",
+                "page": 29,
+                "content": ""
+            }
+        ]
+    },
+    {
+        "document": "Learn Acrobat - Export_2.pdf",
+        "sections": [
+            {
+                "heading": "Note:",
+                "level": "H2",
+                "page": 3,
+                "content": ""
+            }
+        ]
+    },
+    {
+        "document": "Learn Acrobat - Fill and Sign.pdf",
+        "sections": [
+            {
+                "heading": "Note:",
+                "level": "H2",
+                "page": 3,
+                "content": ""
+            },
+            {
+                "heading": "Caution:",
+                "level": "H2",
+                "page": 6,
+                "content": ""
+            },
+            {
+                "heading": "Note:",
+                "level": "H2",
+                "page": 7,
+                "content": ""
+            },
+            {
+                "heading": "Note:",
+                "level": "H2",
+                "page": 10,
+                "content": ""
+            },
+            {
+                "heading": "Note:",
+                "level": "H2",
+                "page": 10,
+                "content": ""
+            },
+            {
+                "heading": "Note:",
+                "level": "H2",
+                "page": 15,
+                "content": ""
+            },
+            {
+                "heading": "Note:",
+                "level": "H2",
+                "page": 16,
+                "content": ""
+            },
+            {
+                "heading": "4. Select Click To Sign.",
+                "level": "H2",
+                "page": 17,
+                "content": ""
+            }
+        ]
+    },
+    {
+        "document": "Learn Acrobat - Generative AI_1.pdf",
+        "sections": [
+            {
+                "heading": "Attributions",
+                "level": "H2",
+                "page": 3,
+                "content": ""
+            },
+            {
+                "heading": "Feedback",
+                "level": "H2",
+                "page": 4,
+                "content": ""
+            },
+            {
+                "heading": "Note:",
+                "level": "H2",
+                "page": 6,
+                "content": ""
+            },
+            {
+                "heading": "Note:",
+                "level": "H2",
+                "page": 6,
+                "content": ""
+            },
+            {
+                "heading": "Before You Begin",
+                "level": "H2",
+                "page": 9,
+                "content": ""
+            },
+            {
+                "heading": "Note:",
+                "level": "H2",
+                "page": 9,
+                "content": ""
+            },
+            {
+                "heading": "Assistant.",
+                "level": "H2",
+                "page": 14,
+                "content": ""
+            },
+            {
+                "heading": "Acrobat",
+                "level": "H2",
+                "page": 15,
+                "content": ""
+            },
+            {
+                "heading": "Prerequisites",
+                "level": "H2",
+                "page": 15,
+                "content": ""
+            },
+            {
+                "heading": "Acrobat Desktop",
+                "level": "H2",
+                "page": 18,
+                "content": ""
+            },
+            {
+                "heading": "Note:",
+                "level": "H2",
+                "page": 18,
+                "content": ""
+            },
+            {
+                "heading": "Note:",
+                "level": "H2",
+                "page": 25,
+                "content": ""
+            },
+            {
+                "heading": "2. Select Preferences.",
+                "level": "H2",
+                "page": 32,
+                "content": ""
+            }
+        ]
+    },
+    {
+        "document": "Learn Acrobat - Generative AI_2.pdf",
+        "sections": [
+            {
+                "heading": "Note:",
+                "level": "H2",
+                "page": 1,
+                "content": ""
+            },
+            {
+                "heading": "Note:",
+                "level": "H2",
+                "page": 10,
+                "content": ""
+            },
+            {
+                "heading": "Note:",
+                "level": "H2",
+                "page": 14,
+                "content": ""
+            },
+            {
+                "heading": "Prerequisites",
+                "level": "H2",
+                "page": 17,
+                "content": ""
+            },
+            {
+                "heading": "Note:",
+                "level": "H2",
+                "page": 17,
+                "content": ""
+            }
+        ]
+    },
+    {
+        "document": "Learn Acrobat - Request e-signatures_1.pdf",
+        "sections": [
+            {
+                "heading": "6. Add Agreement Details:",
+                "level": "H2",
+                "page": 12,
+                "content": ""
+            },
+            {
+                "heading": "• \nSignature",
+                "level": "H2",
+                "page": 14,
+                "content": ""
+            },
+            {
+                "heading": "• \nCheckbox",
+                "level": "H2",
+                "page": 14,
+                "content": ""
+            },
+            {
+                "heading": "12. Confirmation",
+                "level": "H2",
+                "page": 16,
+                "content": ""
+            },
+            {
+                "heading": "• \nView Activity Report",
+                "level": "H2",
+                "page": 19,
+                "content": ""
+            },
+            {
+                "heading": "Resources",
+                "level": "H2",
+                "page": 21,
+                "content": ""
+            },
+            {
+                "heading": "Note:",
+                "level": "H2",
+                "page": 24,
+                "content": ""
+            },
+            {
+                "heading": "Signature.",
+                "level": "H2",
+                "page": 25,
+                "content": ""
+            },
+            {
+                "heading": "Account.",
+                "level": "H2",
+                "page": 27,
+                "content": ""
+            },
+            {
+                "heading": "7. Select Import Search Directory Settings.",
+                "level": "H2",
+                "page": 28,
+                "content": ""
+            }
+        ]
+    },
+    {
+        "document": "Learn Acrobat - Request e-signatures_2.pdf",
+        "sections": [
+            {
+                "heading": "> Preferences > Signatures.",
+                "level": "H2",
+                "page": 4,
+                "content": ""
+            },
+            {
+                "heading": "2. Select Add Verification Information.",
+                "level": "H2",
+                "page": 11,
+                "content": ""
+            }
+        ]
+    },
+    {
+        "document": "Learn Acrobat - Share_1.pdf",
+        "sections": [
+            {
+                "heading": "Using Select Text Tool",
+                "level": "H2",
+                "page": 7,
+                "content": ""
+            },
+            {
+                "heading": "Using Markup Tool",
+                "level": "H2",
+                "page": 7,
+                "content": ""
+            },
+            {
+                "heading": "Delete The Markup",
+                "level": "H2",
+                "page": 8,
+                "content": ""
+            },
+            {
+                "heading": "Note:",
+                "level": "H2",
+                "page": 11,
+                "content": ""
+            },
+            {
+                "heading": "2. Select Share.",
+                "level": "H2",
+                "page": 11,
+                "content": ""
+            },
+            {
+                "heading": "Note:",
+                "level": "H2",
+                "page": 11,
+                "content": ""
+            }
+        ]
+    },
+    {
+        "document": "Learn Acrobat - Share_2.pdf",
+        "sections": [
+            {
+                "heading": "Note:",
+                "level": "H2",
+                "page": 2,
+                "content": ""
+            },
+            {
+                "heading": "Note:",
+                "level": "H2",
+                "page": 12,
+                "content": ""
+            },
+            {
+                "heading": "Font, Font Size",
+                "level": "H2",
+                "page": 15,
+                "content": ""
+            },
+            {
+                "heading": "Enable Text Indicators And Tooltips",
+                "level": "H2",
+                "page": 15,
+                "content": ""
+            }
+        ]
+    },
+    {
+        "document": "Test Your Acrobat Exporting Skills.pdf",
+        "sections": [
+            {
+                "heading": "Acrobat.",
+                "level": "H2",
+                "page": 1,
+                "content": ""
+            }
+        ]
+    },
+    {
+        "document": "The Ultimate PDF Sharing Checklist.pdf",
+        "sections": [
+            {
+                "heading": "General Sharing Checklist",
+                "level": "H2",
+                "page": 1,
+                "content": ""
+            },
+            {
+                "heading": "•  Choose Your Sharing Method",
+                "level": "H2",
+                "page": 1,
+                "content": ""
+            },
+            {
+                "heading": "•  Set Permissions",
+                "level": "H2",
+                "page": 1,
+                "content": ""
+            },
+            {
+                "heading": "•  Add Recipients",
+                "level": "H2",
+                "page": 1,
+                "content": ""
+            },
+            {
+                "heading": "•  Customize Your Message",
+                "level": "H2",
+                "page": 1,
+                "content": ""
+            },
+            {
+                "heading": "•  Follow Up",
+                "level": "H2",
+                "page": 2,
+                "content": ""
+            },
+            {
+                "heading": "Professional Tip: Clear Instructions",
+                "level": "H2",
+                "page": 2,
+                "content": ""
+            },
+            {
+                "heading": "Real Estate Sharing Checklist",
+                "level": "H2",
+                "page": 2,
+                "content": ""
+            },
+            {
+                "heading": "•  Open Your Property Document",
+                "level": "H2",
+                "page": 2,
+                "content": ""
+            },
+            {
+                "heading": "•  Choose Your Sharing Method",
+                "level": "H2",
+                "page": 2,
+                "content": ""
+            },
+            {
+                "heading": "•  Set Permissions",
+                "level": "H2",
+                "page": 2,
+                "content": ""
+            },
+            {
+                "heading": "•  Customize Your Message",
+                "level": "H2",
+                "page": 3,
+                "content": ""
+            },
+            {
+                "heading": "•  Follow Up",
+                "level": "H2",
+                "page": 3,
+                "content": ""
+            },
+            {
+                "heading": "Professional Tip: Highlight Key Details",
+                "level": "H2",
+                "page": 3,
+                "content": ""
+            },
+            {
+                "heading": "Conclusion",
+                "level": "H2",
+                "page": 3,
+                "content": ""
+            }
+        ]
+    }
+]

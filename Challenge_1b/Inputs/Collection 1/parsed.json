@@ -1,0 +1,679 @@
+[
+    {
+        "document": "South of France - Cities.pdf",
+        "sections": [
+            {
+                "heading": "Introduction",
+                "level": "H2",
+                "page": 1,
+                "content": ""
+            },
+            {
+                "heading": "Travel Tips",
+                "level": "H2",
+                "page": 2,
+                "content": ""
+            },
+            {
+                "heading": "History",
+                "level": "H2",
+                "page": 3,
+                "content": ""
+            },
+            {
+                "heading": "Key Attractions",
+                "level": "H2",
+                "page": 3,
+                "content": ""
+            },
+            {
+                "heading": "Local Experiences",
+                "level": "H2",
+                "page": 3,
+                "content": ""
+            },
+            {
+                "heading": "Cultural Highlights",
+                "level": "H2",
+                "page": 3,
+                "content": ""
+            },
+            {
+                "heading": "History",
+                "level": "H2",
+                "page": 5,
+                "content": ""
+            },
+            {
+                "heading": "Key Attractions",
+                "level": "H2",
+                "page": 5,
+                "content": ""
+            },
+            {
+                "heading": "Hidden Gems",
+                "level": "H2",
+                "page": 5,
+                "content": ""
+            },
+            {
+                "heading": "Cultural Highlights",
+                "level": "H2",
+                "page": 5,
+                "content": ""
+            },
+            {
+                "heading": "History",
+                "level": "H2",
+                "page": 7,
+                "content": ""
+            },
+            {
+                "heading": "Key Attractions",
+                "level": "H2",
+                "page": 7,
+                "content": ""
+            },
+            {
+                "heading": "Cultural Activities",
+                "level": "H2",
+                "page": 7,
+                "content": ""
+            },
+            {
+                "heading": "Cultural Highlights",
+                "level": "H2",
+                "page": 7,
+                "content": ""
+            },
+            {
+                "heading": "History",
+                "level": "H2",
+                "page": 8,
+                "content": ""
+            },
+            {
+                "heading": "Key Attractions",
+                "level": "H2",
+                "page": 8,
+                "content": ""
+            },
+            {
+                "heading": "Artistic Heritage",
+                "level": "H2",
+                "page": 8,
+                "content": ""
+            },
+            {
+                "heading": "Cultural Highlights",
+                "level": "H2",
+                "page": 8,
+                "content": ""
+            },
+            {
+                "heading": "Toulouse: The Pink City",
+                "level": "H2",
+                "page": 9,
+                "content": ""
+            },
+            {
+                "heading": "History",
+                "level": "H2",
+                "page": 9,
+                "content": ""
+            },
+            {
+                "heading": "Key Attractions",
+                "level": "H2",
+                "page": 9,
+                "content": ""
+            },
+            {
+                "heading": "Aerospace Industry",
+                "level": "H2",
+                "page": 9,
+                "content": ""
+            },
+            {
+                "heading": "Cultural Highlights",
+                "level": "H2",
+                "page": 9,
+                "content": ""
+            },
+            {
+                "heading": "History",
+                "level": "H2",
+                "page": 10,
+                "content": ""
+            },
+            {
+                "heading": "Key Attractions",
+                "level": "H2",
+                "page": 10,
+                "content": ""
+            },
+            {
+                "heading": "Student Life",
+                "level": "H2",
+                "page": 10,
+                "content": ""
+            },
+            {
+                "heading": "Cultural Highlights",
+                "level": "H2",
+                "page": 10,
+                "content": ""
+            },
+            {
+                "heading": "History",
+                "level": "H2",
+                "page": 11,
+                "content": ""
+            },
+            {
+                "heading": "Key Attractions",
+                "level": "H2",
+                "page": 11,
+                "content": ""
+            },
+            {
+                "heading": "Cultural Fusion",
+                "level": "H2",
+                "page": 11,
+                "content": ""
+            },
+            {
+                "heading": "Cultural Highlights",
+                "level": "H2",
+                "page": 11,
+                "content": ""
+            },
+            {
+                "heading": "Arles: A Roman Treasure",
+                "level": "H2",
+                "page": 12,
+                "content": ""
+            },
+            {
+                "heading": "History",
+                "level": "H2",
+                "page": 12,
+                "content": ""
+            },
+            {
+                "heading": "Key Attractions",
+                "level": "H2",
+                "page": 12,
+                "content": ""
+            },
+            {
+                "heading": "Artistic Influence",
+                "level": "H2",
+                "page": 12,
+                "content": ""
+            },
+            {
+                "heading": "Cultural Highlights",
+                "level": "H2",
+                "page": 12,
+                "content": ""
+            },
+            {
+                "heading": "Carcassonne: A Medieval Fortress",
+                "level": "H2",
+                "page": 13,
+                "content": ""
+            },
+            {
+                "heading": "History",
+                "level": "H2",
+                "page": 13,
+                "content": ""
+            },
+            {
+                "heading": "Key Attractions",
+                "level": "H2",
+                "page": 13,
+                "content": ""
+            },
+            {
+                "heading": "Medieval Life",
+                "level": "H2",
+                "page": 13,
+                "content": ""
+            },
+            {
+                "heading": "Cultural Highlights",
+                "level": "H2",
+                "page": 13,
+                "content": ""
+            },
+            {
+                "heading": "Conclusion",
+                "level": "H2",
+                "page": 14,
+                "content": ""
+            }
+        ]
+    },
+    {
+        "document": "South of France - Cuisine.pdf",
+        "sections": [
+            {
+                "heading": "Introduction",
+                "level": "H2",
+                "page": 1,
+                "content": ""
+            },
+            {
+                "heading": "Famous Dishes",
+                "level": "H2",
+                "page": 3,
+                "content": ""
+            },
+            {
+                "heading": "Must-Visit Restaurants",
+                "level": "H2",
+                "page": 4,
+                "content": ""
+            },
+            {
+                "heading": "Culinary Experiences",
+                "level": "H2",
+                "page": 6,
+                "content": ""
+            },
+            {
+                "heading": "Conclusion",
+                "level": "H2",
+                "page": 8,
+                "content": ""
+            }
+        ]
+    },
+    {
+        "document": "South of France - History.pdf",
+        "sections": [
+            {
+                "heading": "Introduction",
+                "level": "H2",
+                "page": 1,
+                "content": ""
+            },
+            {
+                "heading": "Carcassonne: A Medieval Fortress",
+                "level": "H2",
+                "page": 6,
+                "content": ""
+            },
+            {
+                "heading": "Toulouse: The Pink City",
+                "level": "H2",
+                "page": 7,
+                "content": ""
+            },
+            {
+                "heading": "Arles: A Roman Treasure",
+                "level": "H2",
+                "page": 8,
+                "content": ""
+            },
+            {
+                "heading": "Conclusion",
+                "level": "H2",
+                "page": 12,
+                "content": ""
+            }
+        ]
+    },
+    {
+        "document": "South of France - Restaurants and Hotels.pdf",
+        "sections": [
+            {
+                "heading": "Introduction",
+                "level": "H2",
+                "page": 1,
+                "content": ""
+            },
+            {
+                "heading": "Restaurants",
+                "level": "H2",
+                "page": 2,
+                "content": ""
+            },
+            {
+                "heading": "Budget-Friendly Restaurants",
+                "level": "H2",
+                "page": 2,
+                "content": ""
+            },
+            {
+                "heading": "Family-Friendly Restaurants",
+                "level": "H2",
+                "page": 3,
+                "content": ""
+            },
+            {
+                "heading": "Upscale Restaurants",
+                "level": "H2",
+                "page": 4,
+                "content": ""
+            },
+            {
+                "heading": "Luxurious Restaurants",
+                "level": "H2",
+                "page": 6,
+                "content": ""
+            },
+            {
+                "heading": "Hotels",
+                "level": "H2",
+                "page": 8,
+                "content": ""
+            },
+            {
+                "heading": "Budget-Friendly Hotels",
+                "level": "H2",
+                "page": 8,
+                "content": ""
+            },
+            {
+                "heading": "Family-Friendly Hotels",
+                "level": "H2",
+                "page": 9,
+                "content": ""
+            },
+            {
+                "heading": "Upscale Hotels",
+                "level": "H2",
+                "page": 11,
+                "content": ""
+            },
+            {
+                "heading": "Luxurious Hotels",
+                "level": "H2",
+                "page": 12,
+                "content": ""
+            },
+            {
+                "heading": "Conclusion",
+                "level": "H2",
+                "page": 14,
+                "content": ""
+            }
+        ]
+    },
+    {
+        "document": "South of France - Things to Do.pdf",
+        "sections": [
+            {
+                "heading": "Introduction",
+                "level": "H2",
+                "page": 1,
+                "content": ""
+            },
+            {
+                "heading": "Coastal Adventures",
+                "level": "H2",
+                "page": 2,
+                "content": ""
+            },
+            {
+                "heading": "Beach Hopping",
+                "level": "H2",
+                "page": 2,
+                "content": ""
+            },
+            {
+                "heading": "Water Sports",
+                "level": "H2",
+                "page": 2,
+                "content": ""
+            },
+            {
+                "heading": "Cultural Experiences",
+                "level": "H2",
+                "page": 3,
+                "content": ""
+            },
+            {
+                "heading": "Historical Sites",
+                "level": "H2",
+                "page": 3,
+                "content": ""
+            },
+            {
+                "heading": "Outdoor Activities",
+                "level": "H2",
+                "page": 4,
+                "content": ""
+            },
+            {
+                "heading": "Water Activities",
+                "level": "H2",
+                "page": 4,
+                "content": ""
+            },
+            {
+                "heading": "Culinary Delights",
+                "level": "H2",
+                "page": 5,
+                "content": ""
+            },
+            {
+                "heading": "Wine Tasting",
+                "level": "H2",
+                "page": 5,
+                "content": ""
+            },
+            {
+                "heading": "Cooking Classes",
+                "level": "H2",
+                "page": 5,
+                "content": ""
+            },
+            {
+                "heading": "Local Markets",
+                "level": "H2",
+                "page": 8,
+                "content": ""
+            },
+            {
+                "heading": "Boutique Shopping",
+                "level": "H2",
+                "page": 8,
+                "content": ""
+            },
+            {
+                "heading": "Family-Friendly Activities",
+                "level": "H2",
+                "page": 9,
+                "content": ""
+            },
+            {
+                "heading": "Outdoor Adventures",
+                "level": "H2",
+                "page": 9,
+                "content": ""
+            },
+            {
+                "heading": "Educational Experiences",
+                "level": "H2",
+                "page": 9,
+                "content": ""
+            },
+            {
+                "heading": "Nightclubs",
+                "level": "H2",
+                "page": 11,
+                "content": ""
+            },
+            {
+                "heading": "Conclusion",
+                "level": "H2",
+                "page": 13,
+                "content": ""
+            }
+        ]
+    },
+    {
+        "document": "South of France - Tips and Tricks.pdf",
+        "sections": [
+            {
+                "heading": "Introduction",
+                "level": "H2",
+                "page": 1,
+                "content": ""
+            },
+            {
+                "heading": "Clothing",
+                "level": "H2",
+                "page": 4,
+                "content": ""
+            },
+            {
+                "heading": "Toiletries",
+                "level": "H2",
+                "page": 4,
+                "content": ""
+            },
+            {
+                "heading": "Clothing",
+                "level": "H2",
+                "page": 6,
+                "content": ""
+            },
+            {
+                "heading": "Essentials",
+                "level": "H2",
+                "page": 6,
+                "content": ""
+            },
+            {
+                "heading": "Toiletries",
+                "level": "H2",
+                "page": 6,
+                "content": ""
+            },
+            {
+                "heading": "Special Considerations",
+                "level": "H2",
+                "page": 7,
+                "content": ""
+            },
+            {
+                "heading": "Beach Trips",
+                "level": "H2",
+                "page": 7,
+                "content": ""
+            },
+            {
+                "heading": "City Exploration",
+                "level": "H2",
+                "page": 7,
+                "content": ""
+            },
+            {
+                "heading": "Wine Tours",
+                "level": "H2",
+                "page": 7,
+                "content": ""
+            },
+            {
+                "heading": "Conclusion",
+                "level": "H2",
+                "page": 9,
+                "content": ""
+            }
+        ]
+    },
+    {
+        "document": "South of France - Traditions and Culture.pdf",
+        "sections": [
+            {
+                "heading": "Introduction",
+                "level": "H2",
+                "page": 1,
+                "content": ""
+            },
+            {
+                "heading": "Provençal Language",
+                "level": "H2",
+                "page": 2,
+                "content": ""
+            },
+            {
+                "heading": "Transhumance Festivals",
+                "level": "H2",
+                "page": 2,
+                "content": ""
+            },
+            {
+                "heading": "Pétanque",
+                "level": "H2",
+                "page": 3,
+                "content": ""
+            },
+            {
+                "heading": "Course Camarguaise",
+                "level": "H2",
+                "page": 3,
+                "content": ""
+            },
+            {
+                "heading": "Culinary Traditions",
+                "level": "H2",
+                "page": 3,
+                "content": ""
+            },
+            {
+                "heading": "Provençal Cuisine",
+                "level": "H2",
+                "page": 3,
+                "content": ""
+            },
+            {
+                "heading": "Truﬄe Hunting",
+                "level": "H2",
+                "page": 3,
+                "content": ""
+            },
+            {
+                "heading": "Lavender Products",
+                "level": "H2",
+                "page": 4,
+                "content": ""
+            },
+            {
+                "heading": "Pilgrimages",
+                "level": "H2",
+                "page": 4,
+                "content": ""
+            },
+            {
+                "heading": "Christmas Traditions",
+                "level": "H2",
+                "page": 4,
+                "content": ""
+            },
+            {
+                "heading": "Provençal Folk Music",
+                "level": "H2",
+                "page": 5,
+                "content": ""
+            },
+            {
+                "heading": "Jazz Manouche",
+                "level": "H2",
+                "page": 5,
+                "content": ""
+            },
+            {
+                "heading": "Conclusion",
+                "level": "H2",
+                "page": 5,
+                "content": ""
+            }
+        ]
+    }
+]

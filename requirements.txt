@@ -1,0 +1,24 @@
+# Core PDF Processing
+PyMuPDF==1.24.9
+pdfplumber==0.11.0
+
+# Data Handling
+pandas==2.2.2
+numpy==1.26.4
+
+# Utility Libraries
+tqdm==4.66.4
+python-dateutil==2.9.0.post0
+
+# JSON/YAML Handling
+PyYAML==6.0.2
+
+# For building Docker images and local testing
+requests==2.32.3
+
+# If you're using PyTorch/transformers for relevance extraction
+transformers==4.42.3
+torch==2.3.1
+
+# Environment
+python-dotenv==1.0.1

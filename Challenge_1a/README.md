@@ -49,6 +49,7 @@ Challenge_1a/
 
 ---
 
+
 ## 🔑 Input & Output
 
 ### **Input**
@@ -74,10 +75,13 @@ Challenge_1a/
 }
 ```
 
+---
+
+
 ## 🛠️ Setup Instructions
 ### 1️⃣ Clone the Repository
 ```
-git clone https://github.com/your-username/adobe-hackathon-2025.git
+git clone https://github.com/SuhasMartha/Adobe-India-Hackathon25
 cd Challenge_1a
 ```
 ### 2️⃣ Create Virtual Environment
@@ -93,7 +97,11 @@ pip install -r requirements.txt
 ```
 python utils/pdf_parser.py Inputs/sample.pdf
 ```
-##🐳 Docker Deployment
+
+---
+
+
+## 🐳 Docker Deployment
 To build and run the solution using Docker:
 ### Build Image
 ```
@@ -106,10 +114,15 @@ docker run -v $(pwd)/Inputs:/app/Inputs \
            adobe-challenge-1a
 ```
 
+---
+
+
 ## 📈 Performance
-✅ CPU-only execution
-✅ Model size < 1GB
-✅ Processes document in ≤ 30 seconds
+- ✅ CPU-only execution
+- ✅ Model size < 1GB
+- ✅ Processes document in ≤ 30 seconds
+
+---
 
 ## ✨ Deliverables
  - PDF parser code (pdf_parser.py)
